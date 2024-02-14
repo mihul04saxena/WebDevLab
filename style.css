@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+td{
+  padding: 10px;
+  color: #506;
+  background-color: #1AB7f6;
+}
+th{
+  padding: 10px;
+  color: #34a089;
+  background-color: #7812ab;
+}
+#geu{
+  border: 5px solid #d0bada; 
+  text-align: center;
+  border-collapse: collapse;
+  align-items: center;
+}
